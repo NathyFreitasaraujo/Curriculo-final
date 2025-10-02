@@ -1,0 +1,26 @@
+h1 {text-align: center;
+color: rgb(61, 56, 136);
+} 
+ul { text-align: center ;
+    font-size: 150%;
+} 
+h2 { font-size: 150%;
+text-align: center;
+}
+h2 {border-style: groove;
+border-color: rgb(156, 164, 211);
+}
+h3 { font-size: 150%;
+text-align: center;
+}
+h3 {border-style: groove ;
+border-color: rgb(156, 164, 211);
+}
+h4 { text-align: center;
+font-size: 150%;}
+h4 {border-style: groove ;
+border-color: rgb(156, 164, 211) ;
+}
+h5 { text-align: center;
+font-size: 100%;
+}
